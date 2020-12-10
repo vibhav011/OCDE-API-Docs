@@ -1,4 +1,0 @@
-var dir_0aa7d6881c6b428598d167f8fa86bc23 =
-[
-    [ "node_modules", "dir_70595005bd060d3968ef61526190d432.html", "dir_70595005bd060d3968ef61526190d432" ]
-];

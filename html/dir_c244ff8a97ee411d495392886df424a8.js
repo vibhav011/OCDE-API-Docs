@@ -1,4 +1,0 @@
-var dir_c244ff8a97ee411d495392886df424a8 =
-[
-    [ "webpack", "dir_28bd2742265f3e0658fdc8175d5431d9.html", "dir_28bd2742265f3e0658fdc8175d5431d9" ]
-];
